@@ -13,3 +13,11 @@ nbproject/
 /nbproject/
 /nbproject/private/
 /nbproject/private/private.properties
+.idea/codeStyles/
+.idea/composerJson.xml
+.idea/inspectionProfiles/
+.idea/lemp.iml
+.idea/modules.xml
+.idea/php.xml
+data/
+etc/ssl/
